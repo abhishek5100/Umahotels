@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.rest-container{
+    background-image: url(./images/food.webp);
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+   

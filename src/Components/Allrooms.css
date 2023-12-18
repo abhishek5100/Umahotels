@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Room-container{
+background-image: url(./images/images-2.jpg);
+overflow: hidden;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
